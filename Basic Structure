@@ -1,3 +1,28 @@
+how to run C++ in a terminal. 
+
+find the file's folder. Dir into the folder to list the file. 
+
+run g++ -Wall -std=c++14 filename.cpp -0 (named the exe file ie = main.exe)
+dir to check if the exe has been created. 
+run the file by tying in the name for instance main. 
+
+Basic I/O using Cin and Cout
+
+cout << data;  insert the data into the cout stream. 
+
+can be chained
+cout << 'data 1 is ' << data1;
+
+doesnt not automatically add line breaks
+
+
+cin >> data;
+
+can be chained
+cin >> data1 >> data2;
+
+
+
 Basic structure of a C++ program. 
 C++ keywords - About 90 keywords in C++. More than Java(50), C(32) and Python(33). 
 example keywords = return, int, 
