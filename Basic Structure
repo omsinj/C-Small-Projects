@@ -1,0 +1,29 @@
+Basic structure of a C++ program. 
+C++ keywords - About 90 keywords in C++. More than Java(50), C(32) and Python(33). 
+example keywords = return, int, 
+
+Preprocessor #
+processes the src before the compiler sees it. Begins with #
+example #include, #if, '#elif, #else, #endif
+
+comments //, for multi line comments /* ..... */
+
+Main function 
+every C++ proram must have a main function somwhere and it must be written in lower case. main ()
+
+two versions
+int main (){
+return 0,
+}
+program.exe
+
+int main(int argc, char *argv[])
+{
+// code
+return 0;
+}
+program.exe argument1 argument2
+
+Namespace
+use to reduce naming conflicts. 
+std is the standard C++ namespace. 
