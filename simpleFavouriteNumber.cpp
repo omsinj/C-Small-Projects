@@ -13,7 +13,7 @@ int main()
     std::cin >> favourite_number;
     
     // Print the user's favourite number
-    std::cout << "You entered: " << favourite_number << std::endl;
+    std::cout << "You entered: " << favourite_number << " Thats really my favourite number" << std::endl;
     
     // Print a message indicating it's also your favourite number
     std::cout << "Amazing!! That's my favourite number too!" << std::endl;
@@ -23,10 +23,9 @@ int main()
     std::cin >> new_number;
     
     // Print the user's favourite number
-    std::cout << "You entered: " << new_number << std::endl;
+    std::cout << "You entered: " << new_number << " thats amazing, you got it" << std::endl;
     
     // Print a message indicating it's also your favourite number
     std::cout << "Amazing!! That's your first C++ program, keep it going" << std::endl;
     
     return 0;
-}
